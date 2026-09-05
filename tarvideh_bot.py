@@ -21,7 +21,7 @@ FOLLOWER_LINK = "https://tarvideh.com/#add_orderbox"
 
 # ==================== تنظیمات ایمیل ====================
 EMAIL_SENDER = "Tarvideh8@gmail.com"
-EMAIL_PASSWORD = "fvke ruic bbli aixf"
+EMAIL_PASSWORD = "obhh jwnd xfwz rhxp"
 # =======================================================
 
 bot = telebot.TeleBot(BOT_TOKEN)
