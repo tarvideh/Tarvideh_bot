@@ -21,7 +21,7 @@ FOLLOWER_LINK = "https://tarvideh.com/#add_orderbox"
 
 # ==================== تنظیمات ایمیل ====================
 EMAIL_SENDER = "Tarvideh8@gmail.com"
-EMAIL_PASSWORD = "XXXX XXXX XXXX XXXX"  # ← کد App Password رو اینجا بذار
+EMAIL_PASSWORD = "obhh jwnd xfwz rhxp"
 # =======================================================
 
 bot = telebot.TeleBot(BOT_TOKEN)
