@@ -35,7 +35,7 @@ GROQ_API_KEY = "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"  # ←
 BACKUP_DIR = "backups"
 BACKUP_INTERVAL_HOURS = 12
 BACKUP_KEEP_LOCAL = 30
-BACKUP_CHANNEL = "@tarvideh1"  # ← کانال بک‌آپ (ربات باید ادمین کانال باشه)
+BACKUP_CHANNEL = "@guhcdfyugcxuucc"  # ← کانال بک‌آپ (ربات باید ادمین کانال باشه)
 # ======================================================
 
 runtime_config = {
