@@ -26,10 +26,10 @@ FOLLOWER_LINK = "https://tarvideh.com/#add_orderbox"
 
 # ==================== تنظیمات ایمیل ====================
 EMAIL_SENDER = "Tarvideh8@gmail.com"
-EMAIL_PASSWORD = "XXXX XXXX XXXX XXXX"  # ← کد App Password رو اینجا بذار
+EMAIL_PASSWORD = "obhh jwnd xfwz rhxp"  # ← کد App Password رو اینجا بذار
 
 # ==================== تنظیمات هوش مصنوعی ====================
-GROQ_API_KEY = "YOUR_GROQ_API_KEY"  # ← کلید API گروک رو اینجا بذار
+GROQ_API_KEY = "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"  # ← کلید API گروک رو اینجا بذار
 
 # ==================== تنظیمات بک‌آپ ====================
 BACKUP_DIR = "backups"
